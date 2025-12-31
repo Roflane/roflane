@@ -1,7 +1,7 @@
 # Roflane
 I'm a developer who values lightweight implementations and simplicity. Definitely prefer using languages that compile to native code. I have some reverse engineering experience.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roflane&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roflane)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
