@@ -25,4 +25,4 @@ I'm a developer who values lightweight implementations and simplicity. Definitel
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roflane&layout=pie)
+![Top Languages](https://github-readme-stats-3irnpg42z-roflanes-projects.vercel.app/api/top-langs/?layout=compact&theme=dark&username=Roflane)
