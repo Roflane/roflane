@@ -64,6 +64,7 @@ I'm a developer who values lightweight implementations and simplicity. Definitel
 </div>
 
 
+<br><br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Roflane.Roflane" /> <br>
 
@@ -75,8 +76,6 @@ I'm a developer who values lightweight implementations and simplicity. Definitel
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-<br><br>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roflane/Roflane/output/pacman-contribution-graph-dark.svg">
