@@ -56,6 +56,11 @@ I'm a developer who values lightweight implementations and simplicity. Definitel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="32" alt="gcc" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llvm/llvm-original.svg" height="32" alt="llvm" />
+
+  <img width="12" />
+  <img src="https://github.com/Roflane/roflane/blob/main/images/ghidra.svg" height="28" alt="ida pro" />
+  <img width="12" />
+  <img src="https://github.com/Roflane/roflane/blob/main/images/ida_pro.png" height="28" alt="ghidra" />
 </div>
 
 
