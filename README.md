@@ -1,17 +1,19 @@
 # Roflane
-I'm a developer who values lightweight implementations and simplicity. Definitely prefer using languages that compile to native code. I have some reverse engineering experience.
+Backend and systems programmer. Focused on native performance, distributed backend systems, and low-level software design. Experienced in reverse engineering and static/runtime analysis.
 
 <div align="left">
-  <!-- Platforms -->
+  <h3>OS & DE</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="32" alt="windows" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="32" alt="neovim" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="32" alt="mint" />
 
   <br><br>
 
-  <!-- Languages -->
+  <h3>Languages</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="c" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus" />
@@ -23,30 +25,52 @@ I'm a developer who values lightweight implementations and simplicity. Definitel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="32" alt="lua" />
-
-  <br><br>
-
-  <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript" />
+  
+  <br><br>
+
+  <h3>Backend & Infrastructure</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="32" alt="dotnet" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" height="32" alt="tauri" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="32" alt="node" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="32" alt="mssql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="32" alt="node" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="32" alt="swagger" />
+  <br><br>
+
+  <h3>Web</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="32" alt="redux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="tailwind" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" height="32" alt="axios" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3" />
-
+  
   <br><br>
 
-  <!-- Engines -->
+  <h3>Engines & Graphic libraries</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="32" alt="unity" />
   <img width="12" />
   <img src="https://www.raylib.com/common/img/raylib_logo.png" height="32" alt="raylib" />
 
   <br><br>
 
-  <!-- Tools -->
+  <h3>Tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker" />
@@ -56,15 +80,14 @@ I'm a developer who values lightweight implementations and simplicity. Definitel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="32" alt="gcc" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llvm/llvm-original.svg" height="32" alt="llvm" />
-
   <img width="12" />
-  <img src="https://github.com/Roflane/roflane/blob/main/images/ghidra.svg" height="28" alt="ida pro" />
+  <img src="https://github.com/Roflane/roflane/blob/main/images/ghidra.svg" height="32" alt="ida pro" />
   <img width="12" />
-  <img src="https://github.com/Roflane/roflane/blob/main/images/ida_pro.png" height="28" alt="ghidra" />
+  <img src="https://github.com/Roflane/roflane/blob/main/images/ida_pro.png" height="32" alt="ghidra" />
 </div>
 
-
 <br><br>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Roflane.Roflane" /> <br>
 
