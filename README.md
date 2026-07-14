@@ -100,10 +100,10 @@ Backend and systems programmer. Focused on native performance, distributed backe
   </a>
 </div>
   
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roflane/Roflane/output/pacman-contribution-graph-dark.svg">
   <img alt="arcade contribution graph" src="https://raw.githubusercontent.com/Roflane/Roflane/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 
 
